@@ -21,8 +21,6 @@ This Task Management App allows users to create, manage, and track tasks. It fea
 - Build Tool: Vite
 
 ## Project Structure
-Certainly! I'll create a comprehensive README.md file for your GitHub repository. This documentation will cover the setup, running, and usage of your Task Management App. Here's a template you can use:
-markdownCopy# Task Management App
 
 A full-stack task management application built with Svelte, Flowbite, Directus, and MySQL.
 
